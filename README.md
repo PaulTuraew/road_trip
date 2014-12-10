@@ -1,6 +1,8 @@
 Road Trip
 =======
 
+[Link to Play Road Trip](https://state-capital-road-trip.herokuapp.com/)
+
 ### Overview
 
 **Road Trip** is an interactive web application that allows users to test their knowledge of the US States in a race across the country. Users are encouraged to answer questions with precision to increase their score and beat  other competitors for leaderboard domination.
