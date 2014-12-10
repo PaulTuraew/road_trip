@@ -1,7 +1,7 @@
 Road Trip
 =======
 
-[Link to Play Road Trip](https://state-capital-road-trip.herokuapp.com/)
+[Play Road Trip](https://state-capital-road-trip.herokuapp.com/)
 
 ### Overview
 
